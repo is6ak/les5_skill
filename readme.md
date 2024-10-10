@@ -1,10 +1,11 @@
 # Mango Lassi Recept
 
 Simpele Mango Lassi recept voor in de zomer. Veel succes.
-Bron: https://www.culy.nl/recepten/mango-lassi-de-ultieme-dorstlessende-zomer-smoothie/
+Bron: 
+https://www.culy.nl/recepten/mango-lassi-de-ultieme-dorstlessende-zomer-smoothie/
 
 
-[alt text](picture.jpg)
+![alt text](picture.jpg)
 
 ## Benodigdheden
 
